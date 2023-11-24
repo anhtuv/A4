@@ -8,7 +8,7 @@ Setup the database:
 4. Name it "A4".
 
 Compile and run app:
-1. Download the "A4" folder.
+1. Download the files from the "A4" repository.
 2. Open this folder in VS Code.
 3. Open the terminal in the folder's directory, and type "pip install psycopg2".
 4. Change the password to the database if needed.
